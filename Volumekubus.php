@@ -2,10 +2,10 @@
 <html lang="en">
 <Head>
   <meta charset="UTF-8">
-  <title>Aplikasi sederhana penerapan fungsi </title>
+  <title>Mencari Volume Kubus </title>
 </head>
 <body>
-  <h1>Aplikasi sederhana penerapan fungsi</h1>
+  <h1>Mencari Volume Kubus</h1>
 
   <?php
    function hitungvolumekubus ($sisi1,$sisi2,$sisi3) {

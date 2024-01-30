@@ -10,6 +10,7 @@
   <?php
    function hitungvolumekubus ($sisi1,$sisi2,$sisi3) {
     return ($sisi1*$sisi2*$sisi3);
+    
    }
 
    $sisi1=20;
@@ -18,7 +19,7 @@
 
    $volume= hitungvolumekubus($sisi1,$sisi2,$sisi3);
 
-   echo "luas segitiga dengan sisi1 $sisi1, sisi2 $sisi2 dan sisi3 $sisi3 adalah $volume";
+   echo "Volume kubus dengan sisi1 $sisi1, sisi2 $sisi2 dan sisi3 $sisi3 adalah $volume";
    ?>
 </body>
 </html>
